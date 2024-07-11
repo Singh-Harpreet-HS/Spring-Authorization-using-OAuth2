@@ -1,0 +1,13 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: Ov23liX4jqDnpJk9uZj8
+            client-secret: b45cedc4d6d8822e29256774146743707d74c998
+
+#    user:
+#      name: admin
+#      password: harvinder
+
